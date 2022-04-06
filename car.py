@@ -1,1 +1,0 @@
-# The Car class initiates the information needed for each car (the fuel and position that will be used in the CarManager class).
